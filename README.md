@@ -45,8 +45,6 @@ FIDO协议是指利用生物信息的唯一性或PIN码来进行身份认证的�
 
 技能清单
 
-以下均为我熟练使用的技能
-
 - DevOps：组合Python Docker Angular MySQL等技术, 快速完成原型的开发
 - 知识搜索: 利用Google Stackoverflow 官方文档等资料来源,  快速定位问题并解决的能力
 - 开发技能:  UnitTest   Scrum敏捷开发
